@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ilal-kh
-- 👀 I’m interested in data analysis
-- 📫 How to reach me: https://www.linkedin.com/in/ilya-kharin-130132215/
+- 📫 How to reach me: https://x.com/nagg66vu
 
 <!---
 ilal-kh/ilal-kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
